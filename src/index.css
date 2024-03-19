@@ -11,6 +11,7 @@ body{
 }
 ul{
   list-style: none;
+  margin-bottom: 300px;
 }
 a{
   text-decoration: none;
@@ -24,7 +25,8 @@ input{
   border: none;
 }
 .logo img{
-  width: 90px;
+  width: 350px;
+  margin-top: 10px;
 }
 #main{
   width:100%;
